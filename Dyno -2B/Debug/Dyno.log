@@ -1,4 +1,4 @@
-﻿Build started 10/02/2016 15:53:24.
+﻿Build started 13/02/2016 15:32:25.
      1>Project "C:\Users\Steve\Documents\Visual Studio 2010\Projects\Dyno -2B\Dyno.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
          Creating "Debug\Dyno.unsuccessfulbuild" because "AlwaysCreate" was specified.
@@ -12,7 +12,8 @@
          Generating Code...
          All outputs are up-to-date.
        CoreResGen:
-         No resources are out of date with respect to their source files. Skipping resource generation.
+         "C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\NETFX 4.0 Tools\resgen.exe" /useSourcePath /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /compile Form2.resx,Debug\Dyno.Form2.resources
+         Processing resource file "Form2.resx" into "Debug\Dyno.Form2.resources".
        ResourceCompile:
          All outputs are up-to-date.
        Link:
@@ -32,4 +33,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:05.06
+Time Elapsed 00:00:06.61
